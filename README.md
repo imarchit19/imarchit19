@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/31448375/87241078-1ace5380-c43d-11ea-8925-548096fdc68b.gif">
+</p>
+
 - 🔭 I am an Engineering Undergraduate based in Delhi, India and majoring in Information Technology. 
 
 - 👯 A passionate Web and Flutter Developer.
