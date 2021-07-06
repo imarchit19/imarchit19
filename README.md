@@ -26,4 +26,3 @@ I look forward to using different tech out in the world, but primarly focus on:
 -   Node.js
 -   Express
 -   MongoDB
--   Flutter or Android with Kotlin (App Development)
