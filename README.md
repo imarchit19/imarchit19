@@ -12,7 +12,7 @@
 
 - 🔭 I am an Engineering Undergraduate based in Delhi, India and majoring in Information Technology. 
 
-- 👯 A passionate Web and Flutter Developer.
+- 👯 Full Stack Web Developer.
 
 - 💬 Love to contribute to open-source projects, eager to expand my skills and learn as I move forward. 
 
