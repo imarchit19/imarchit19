@@ -10,7 +10,7 @@
 
 ## Who Am I?
 
-- 🔭 I am an Engineering Undergraduate based in Delhi, India and majoring in Information Technology. 
+- 🔭 I am an Associate Software Engineer based in Delhi, India and currently working in Nagarro. 
 
 - 👯 Full Stack Web Developer.
 
@@ -22,7 +22,8 @@
 ## What Am I Using?
 
 I look forward to using different tech out in the world, but primarly focus on:
--   React.js
+-   Angular
 -   Node.js
 -   Express
 -   MongoDB
+-   Spring Boot
