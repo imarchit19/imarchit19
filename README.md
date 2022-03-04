@@ -10,12 +10,10 @@
 
 ## Who Am I?
 
-- 🔭 I am an Associate Software Engineer based in Delhi, India and currently working in Nagarro. 
-
-- 👯 Full Stack Web Developer.
-
+- 🔭 I am an Associate Software Engineer based in Delhi, India and currently working in Nagarro.
+- 👷🏽‍♂️ Started Working Full Time from November 2021. 
+- 👯 Backend Web Developer.
 - 💬 Love to contribute to open-source projects, eager to expand my skills and learn as I move forward. 
-
 - 📫 How to reach me: guptaarchit023@gmail.com
 
 
