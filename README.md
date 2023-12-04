@@ -10,7 +10,7 @@
 
 ## Who Am I?
 
-- 🔭 I am an Associate Software Engineer based in Delhi, India and currently working in Nagarro.
+- 🔭 I am an Engineer based in Delhi, India and currently working in Nagarro.
 - 👷🏽‍♂️ Started Working Full Time from November 2021. 
 - 👯 Backend Web Developer.
 - 💬 Love to contribute to open-source projects, eager to expand my skills and learn as I move forward. 
@@ -24,4 +24,4 @@ I look forward to using different tech out in the world, but primarly focus on:
 -   Node.js
 -   Express
 -   MongoDB
--   Spring Boot
+-   Spring Boot and Microservices
